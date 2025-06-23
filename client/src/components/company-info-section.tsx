@@ -13,11 +13,7 @@ export default function CompanyInfoSection() {
       label: "会社名",
       value: "株式会社ネオエルモ"
     },
-    {
-      icon: MapPin,
-      label: "所在地",
-      value: "東京都練馬区"
-    },
+   
     {
       icon: Calendar,
       label: "設立",
@@ -26,7 +22,7 @@ export default function CompanyInfoSection() {
     {
       icon: FileText,
       label: "事業内容",
-      value: "AI事業プロデュース・コンサルティング"
+      value: "マーケティング支援、DX支援"
     }
   ]
 
